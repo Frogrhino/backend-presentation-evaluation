@@ -13,7 +13,7 @@ Installation
 Clone the repository and navigate to the project directory:
 
     git clone https://github.com/your-username/mysql-express-table-api.git
-    cd mysql-express-table-api
+    cd backend-presentation-evaluation
 
 Install the dependencies:
 
