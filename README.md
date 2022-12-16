@@ -10,10 +10,10 @@ Prerequisites
 
 Installation
 
-    Clone the repository and navigate to the project directory:
+Clone the repository and navigate to the project directory:
 
-git clone https://github.com/your-username/mysql-express-table-api.git
-cd mysql-express-table-api
+    git clone https://github.com/your-username/mysql-express-table-api.git
+    cd mysql-express-table-api
 
 Install the dependencies:
 
