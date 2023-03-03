@@ -12,7 +12,7 @@ Installation
 
 Clone the repository and navigate to the project directory:
 
-    git clone https://github.com/your-username/mysql-express-table-api.git
+    git clone https://github.com/Frogrhino/backend-presentation-evaluation.git
     cd backend-presentation-evaluation
 
 Install the dependencies:
